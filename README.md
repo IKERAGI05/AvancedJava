@@ -1,2 +1,2 @@
 # AvancedJava
-Just a personalized course to learn java i deep
+Just a personalized course to learn java in deep
